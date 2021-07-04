@@ -1,7 +1,7 @@
 # Six-Motors-Control-Panel-Full-stack-developing
 *This repository one of the tasks for internship in smart methods is about creating a control panel web page for controlling six motors*
 **NOTE**
-***this work is based on Full Stack Front-End developing***
+***this work is based on Full Stack developing***
 *Here is the list of files:*
 1. index.html 
 2. style.css
